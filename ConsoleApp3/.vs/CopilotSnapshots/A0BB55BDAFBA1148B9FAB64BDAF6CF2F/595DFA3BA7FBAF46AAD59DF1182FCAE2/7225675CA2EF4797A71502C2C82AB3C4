@@ -1,0 +1,17 @@
+﻿using System;
+
+namespace ConsoleApp3
+{
+    class Expense
+    {
+        int expenseeId;
+        st
+    }
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Hello, World!");
+        }
+    }
+}
